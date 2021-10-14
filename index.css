@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+}
+.cv{
+    border: 0;
+    width: 70%;
+    height: 100%;
+    padding: 350px;
+    outline: none;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background:rgb(134, 253, 237);
+    text-align: left;
+}
+img{
+    padding: 30px;
+    position: absolute;
+    border-radius: 100%;
+    top: 27%;
+    left: 11%;
+}
+p{
+    font-family:serif;   
+}
